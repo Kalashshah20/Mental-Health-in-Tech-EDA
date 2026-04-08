@@ -39,4 +39,4 @@ Following the **Univariate, Bivariate, and Multivariate** rule, 15 charts were g
 3. Run the Jupyter Notebook: `jupyter notebook Sample_EDA_Submission_Template.ipynb`
 
 ## 👨‍💻 Author
-**Kalash Shah** *Aspiring Data Scientist | Electronics & Telecommunication Engineer*
+**Kalash Shah** *Aspiring Data Analyst | Electronics & Telecommunication Engineer*
